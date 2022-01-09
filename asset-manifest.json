@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/Mint/static/css/main.ff145fac.chunk.css",
-    "main.js": "/Mint/static/js/main.d70da16b.chunk.js",
-    "main.js.map": "/Mint/static/js/main.d70da16b.chunk.js.map",
+    "main.js": "/Mint/static/js/main.5cc2b624.chunk.js",
+    "main.js.map": "/Mint/static/js/main.5cc2b624.chunk.js.map",
     "runtime-main.js": "/Mint/static/js/runtime-main.f9ffe72e.js",
     "runtime-main.js.map": "/Mint/static/js/runtime-main.f9ffe72e.js.map",
     "static/js/2.c409d0ad.chunk.js": "/Mint/static/js/2.c409d0ad.chunk.js",
@@ -12,13 +12,13 @@
     "index.html": "/Mint/index.html",
     "static/css/main.ff145fac.chunk.css.map": "/Mint/static/css/main.ff145fac.chunk.css.map",
     "static/js/2.c409d0ad.chunk.js.LICENSE.txt": "/Mint/static/js/2.c409d0ad.chunk.js.LICENSE.txt",
-    "static/media/1.75f03515.png": "/Mint/static/media/1.75f03515.png",
+    "static/media/1.f194873d.png": "/Mint/static/media/1.f194873d.png",
     "static/media/reset.css": "/Mint/static/media/PressStart2P-Regular.f2341734.woff"
   },
   "entrypoints": [
     "static/js/runtime-main.f9ffe72e.js",
     "static/js/2.c409d0ad.chunk.js",
     "static/css/main.ff145fac.chunk.css",
-    "static/js/main.d70da16b.chunk.js"
+    "static/js/main.5cc2b624.chunk.js"
   ]
 }
